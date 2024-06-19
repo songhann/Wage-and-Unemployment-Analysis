@@ -1,0 +1,529 @@
+year,occ_desc,sex1,sex2,mthly_gross_wage_50_pctile,mthly_basic_wage_50_pctile
+2022,managing director/chief executive officer,all,females,8017,8000
+2022,managing director/chief executive officer,all,males,9600,9500
+2022,chief operating officer/general manager,all,females,9352,8500
+2022,chief operating officer/general manager,all,males,12363,11340
+2022,budgeting and financial accounting manager (including financial controller),all,females,7800,7062
+2022,budgeting and financial accounting manager (including financial controller),all,males,10000,8611
+2022,administration manager,all,females,6550,6159
+2022,administration manager,all,males,8105,7630
+2022,audit manager,all,females,8400,8212
+2022,audit manager,all,males,8500,8205
+2022,human resource manager,all,females,7752,6828
+2022,human resource manager,all,males,8000,7350
+2022,policy manager,all,females,9700,8500
+2022,policy manager,all,males,9977,7956
+2022,strategic planning manager,all,females,12525,12012
+2022,strategic planning manager,all,males,13157,11500
+2022,risk management manager,all,females,12555,12385
+2022,risk management manager,all,males,13647,12500
+2022,premises and facilities maintenance manager (excluding building security manager),all,females,6400,5850
+2022,premises and facilities maintenance manager (excluding building security manager),all,males,6613,5502
+2022,landscape manager,all,males,4342,4320
+2022,cleaning operations manager,all,males,4485,4050
+2022,security manager,all,males,4800,4680
+2022,sales manager,all,females,7948,6700
+2022,sales manager,all,males,8667,7379
+2022,business development manager,all,females,8400,7500
+2022,business development manager,all,males,9500,8440
+2022,regional sales manager,all,females,9688,9055
+2022,regional sales manager,all,males,11680,10500
+2022,merchandising/category manager,all,females,8102,7771
+2022,merchandising/category manager,all,males,8530,8000
+2022,online sales channel manager,all,females,8077,6600
+2022,online sales channel manager,all,males,8830,8171
+2022,advertising/public relations manager,all,females,7800,7000
+2022,advertising/public relations manager,all,males,6360,5940
+2022,marketing manager,all,females,8167,7800
+2022,marketing manager,all,males,9111,8625
+2022,research and development manager,all,females,9513,9059
+2022,research and development manager,all,males,11480,11000
+2022,customer service manager,all,females,7436,7070
+2022,customer service manager,all,males,9550,8710
+2022,manufacturing manager,all,females,7000,6500
+2022,manufacturing manager,all,males,8000,7600
+2022,construction manager,all,females,6000,5550
+2022,construction manager,all,males,6500,6100
+2022,supply and distribution/logistics/warehousing manager,all,females,7661,7160
+2022,supply and distribution/logistics/warehousing manager,all,males,6336,5913
+2022,procurement/purchasing manager,all,females,7500,6500
+2022,procurement/purchasing manager,all,males,8911,8179
+2022,transport/technical operations manager (except port/shipping operations),all,females,6480,4500
+2022,transport/technical operations manager (except port/shipping operations),all,males,6411,4500
+2022,port/shipping operations manager,all,females,6572,5905
+2022,port/shipping operations manager,all,males,8382,7796
+2022,technical/engineering services manager (excluding transport),all,females,8823,8445
+2022,technical/engineering services manager (excluding transport),all,males,9104,8400
+2022,quality control/assurance manager,all,females,8728,8097
+2022,quality control/assurance manager,all,males,8773,8413
+2022,chief information officer/chief technology officer/chief security officer,all,females,12255,11890
+2022,chief information officer/chief technology officer/chief security officer,all,males,14000,13845
+2022,software and applications manager,all,females,9100,8500
+2022,software and applications manager,all,males,9746,9381
+2022,"network, communications and infrastructure manager",all,females,8786,8418
+2022,"network, communications and infrastructure manager",all,males,9960,9460
+2022,ict service manager,all,females,8618,8182
+2022,ict service manager,all,males,9193,8884
+2022,pre-school education manager,all,females,4725,4509
+2022,health services manager,all,females,8839,8146
+2022,health services manager,all,males,8700,7919
+2022,community and social service manager,all,females,5315,5000
+2022,education and training institution manager,all,females,5300,5300
+2022,education and training institution manager,all,males,5945,5871
+2022,school principal,all,females,5654,5300
+2022,financial services manager,all,females,9760,9660
+2022,financial services manager,all,males,12860,12665
+2022,insurance services manager,all,females,9495,9451
+2022,insurance services manager,all,males,11056,10702
+2022,financial risk manager,all,females,10115,10000
+2022,financial risk manager,all,males,11840,11830
+2022,media and broadcasting manager,all,males,10744,9442
+2022,hotel operations/lodging services manager,all,females,4700,4550
+2022,hotel operations/lodging services manager,all,males,4924,4550
+2022,restaurant manager,all,females,3051,2650
+2022,restaurant manager,all,males,3800,3132
+2022,food and beverage operations manager,all,females,3786,3367
+2022,food and beverage operations manager,all,males,3950,3340
+2022,retail manager,all,females,4650,3500
+2022,retail manager,all,males,4715,3500
+2022,wholesale trade manager,all,females,9300,9194
+2022,wholesale trade manager,all,males,11822,10675
+2022,wellness centre manager (e.g. hair/beauty/slimming/spa/manicure/massage),all,females,3333,3100
+2022,event manager,all,females,5891,5582
+2022,chemist,all,females,5125,5000
+2022,chemist,all,males,5832,5260
+2022,"geologist, geophysicist and other physical science professional",all,females,6897,6251
+2022,operations research analyst,all,females,6280,5688
+2022,operations research analyst,all,males,6571,6000
+2022,data scientist,all,females,9226,9226
+2022,data scientist,all,males,10960,10890
+2022,statistical officer/data analyst,all,females,5220,4927
+2022,statistical officer/data analyst,all,males,6837,6837
+2022,pharmacologist and related professional,all,females,5439,5272
+2022,pharmacologist and related professional,all,males,5730,5626
+2022,medical laboratory scientist,all,females,5805,5805
+2022,clinical research professional,all,females,5112,5032
+2022,industrial and production engineer,all,females,4500,4113
+2022,industrial and production engineer,all,males,5637,5009
+2022,civil engineer,all,females,5300,5000
+2022,civil engineer,all,males,6000,5446
+2022,mechanical engineer (excluding transport and vehicle engineer),all,females,4569,4339
+2022,mechanical engineer (excluding transport and vehicle engineer),all,males,5369,4827
+2022,chemical engineer,all,females,6236,5294
+2022,chemical engineer,all,males,5128,4351
+2022,transport and vehicle engineer,all,females,5130,4667
+2022,transport and vehicle engineer,all,males,5276,4500
+2022,biomedical engineer,all,males,4910,4874
+2022,industrial safety engineer,all,females,6739,6191
+2022,industrial safety engineer,all,males,6525,5568
+2022,quantity surveyor,all,females,4910,4200
+2022,quantity surveyor,all,males,5000,3828
+2022,procurement engineer,all,females,6205,5850
+2022,procurement engineer,all,males,6317,6099
+2022,electrical engineer,all,females,5407,5197
+2022,electrical engineer,all,males,5167,4554
+2022,electronics engineer,all,females,6171,5969
+2022,electronics engineer,all,males,6700,6367
+2022,instrumentation engineer,all,females,5805,5643
+2022,instrumentation engineer,all,males,5704,5603
+2022,telecommunications engineer,all,males,5761,5360
+2022,building architect,all,females,4285,4100
+2022,building architect,all,males,5340,4950
+2022,product and industrial designer,all,females,6000,4960
+2022,product and industrial designer,all,males,6000,5141
+2022,land surveyor,all,males,5735,4938
+2022,graphic designer,all,females,3747,3560
+2022,graphic designer,all,males,3835,3600
+2022,interaction designer,all,females,5313,5300
+2022,marine superintendent (engineer),all,males,9500,8373
+2022,general practitioner/physician,all,females,5947,5315
+2022,general practitioner/physician,all,males,6408,5714
+2022,specialist medical practitioner (medical),all,females,6568,6075
+2022,specialist medical practitioner (medical),all,males,8324,6935
+2022,specialist medical practitioner (surgical),all,females,6259,5894
+2022,specialist medical practitioner (surgical),all,males,8827,7202
+2022,orthopaedic surgeon,all,males,8116,6644
+2022,specialist medical practitioner (other specialisations) - i,all,females,8084,6600
+2022,specialist medical practitioner (other specialisations) - i,all,males,8456,7340
+2022,anaesthesiologist,all,females,8433,7460
+2022,diagnostic radiologist,all,females,6639,6637
+2022,diagnostic radiologist,all,males,8471,7542
+2022,"registered nurse and other nursing professional (e.g. clinical nurse, nurse educator, excluding enrolled nurse)",all,females,5595,4831
+2022,"registered nurse and other nursing professional (e.g. clinical nurse, nurse educator, excluding enrolled nurse)",all,males,5140,4211
+2022,pharmacist,all,females,4954,4189
+2022,pharmacist,all,males,4674,4200
+2022,environmental and occupational health and hygiene professional,all,males,4000,4000
+2022,physiotherapist,all,females,4921,3300
+2022,physiotherapist,all,males,5019,3300
+2022,dietitian and nutritionist,all,females,5271,3964
+2022,audiologist and speech therapist,all,females,4610,3600
+2022,occupational therapist,all,females,4794,3815
+2022,radiation therapist,all,females,5049,4000
+2022,radiation therapist,all,males,5784,4000
+2022,university lecturer,all,females,7897,7677
+2022,university lecturer,all,males,11410,10829
+2022,technical/vocational/commercial education institute teacher and trainer,all,females,3550,3000
+2022,technical/vocational/commercial education institute teacher and trainer,all,males,4318,3700
+2022,special education teacher,all,females,4739,4652
+2022,accountant (excluding tax accountant),all,females,5210,4900
+2022,accountant (excluding tax accountant),all,males,4700,4500
+2022,auditor (accounting),all,females,4965,4590
+2022,auditor (accounting),all,males,5113,4940
+2022,tax accountant,all,females,8400,6500
+2022,tax accountant,all,males,11135,6500
+2022,financial and investment adviser,all,females,5280,5263
+2022,financial and investment adviser,all,males,5689,5689
+2022,business valuer,all,females,13750,13750
+2022,business valuer,all,males,11067,11067
+2022,"financial analyst (e.g. equities analyst, credit analyst, investment research analyst)",all,females,7385,7079
+2022,"financial analyst (e.g. equities analyst, credit analyst, investment research analyst)",all,males,8339,7876
+2022,compliance officer/risk analyst (financial),all,females,7800,6304
+2022,compliance officer/risk analyst (financial),all,males,8745,6000
+2022,fund/portfolio manager (including asset allocator),all,females,9311,9246
+2022,fund/portfolio manager (including asset allocator),all,males,15565,15500
+2022,treasury manager,all,females,8138,7750
+2022,treasury manager,all,males,10560,10435
+2022,securities and finance dealer,all,females,9167,5068
+2022,securities and finance dealer,all,males,15321,11655
+2022,securities and finance dealer,all,females,5220,5220
+2022,securities and finance dealer,all,males,15613,14924
+2022,insurance underwriter,all,females,6187,6187
+2022,insurance underwriter,all,males,11234,10519
+2022,management and business consultant,all,females,7067,6254
+2022,management and business consultant,all,males,7600,6651
+2022,policy administration professional (e.g. policy analyst),all,females,4214,4072
+2022,human resource consultant (excluding executive search consultant),all,females,5909,5590
+2022,human resource consultant (excluding executive search consultant),all,males,7896,7292
+2022,personnel/human resource officer,all,females,4030,3910
+2022,personnel/human resource officer,all,males,4000,3824
+2022,industrial relations officer,all,females,4853,4853
+2022,industrial relations officer,all,males,4995,4995
+2022,training and staff development professional,all,females,4188,3509
+2022,training and staff development professional,all,males,5021,3000
+2022,research officer (non-statistical),all,females,4432,4368
+2022,research officer (non-statistical),all,males,4979,3834
+2022,creative advertising professional,all,females,8000,8000
+2022,creative advertising professional,all,males,9732,9732
+2022,market research professional,all,females,6242,5530
+2022,market research professional,all,males,6267,6000
+2022,marketing strategy/planning professional,all,females,5575,5240
+2022,marketing strategy/planning professional,all,males,7696,7000
+2022,"digital marketing professional (e.g. online, social media, e-commerce marketing professional)",all,females,4500,4120
+2022,"digital marketing professional (e.g. online, social media, e-commerce marketing professional)",all,males,5000,4827
+2022,revenue specialist,all,females,3845,3845
+2022,public relations/corporate communications professional,all,females,4557,4280
+2022,public relations/corporate communications professional,all,males,5905,5600
+2022,technical sales professional,all,females,5495,4849
+2022,technical sales professional,all,males,6197,5485
+2022,medical and pharmaceutical products sales professional,all,females,5749,4477
+2022,medical and pharmaceutical products sales professional,all,males,5650,4859
+2022,ict sales and services professional,all,females,11250,9959
+2022,ict sales and services professional,all,males,10080,9017
+2022,sales professionals (institutional sales of financial products),all,females,5681,5271
+2022,sales professionals (institutional sales of financial products),all,males,13873,12061
+2022,commodities and freight trader,all,males,10060,10000
+2022,commodities and ship broker,all,males,13333,11037
+2022,systems analyst,all,females,6207,5895
+2022,systems analyst,all,males,7014,6500
+2022,"software, web and multimedia developer",all,females,6771,6000
+2022,"software, web and multimedia developer",all,males,7617,6558
+2022,applications/systems programmer,all,females,5797,5499
+2022,applications/systems programmer,all,males,6210,5906
+2022,ict quality assurance specialist,all,females,4500,4439
+2022,ict quality assurance specialist,all,males,4635,4600
+2022,database administrator,all,females,3253,3182
+2022,database administrator,all,males,7484,7480
+2022,database architect,all,males,10000,10000
+2022,"network, servers and computer systems administrator",all,females,5458,4500
+2022,"network, servers and computer systems administrator",all,males,5530,5134
+2022,"computer network, infrastructure and platform professional",all,females,5883,5604
+2022,"computer network, infrastructure and platform professional",all,males,6667,6228
+2022,cybersecurity professional,all,females,7940,7538
+2022,cybersecurity professional,all,males,7058,6709
+2022,advocate/solicitor (practising),all,females,8733,8233
+2022,advocate/solicitor (practising),all,males,10833,10029
+2022,"in-house legal counsel (except judiciary, ministries and statutory boards)",all,females,12972,12011
+2022,"in-house legal counsel (except judiciary, ministries and statutory boards)",all,males,14343,12913
+2022,librarian,all,females,6446,6446
+2022,psychologist,all,females,5284,4400
+2022,social service professional,all,females,4332,3400
+2022,social service professional,all,males,4440,3600
+2022,counsellor (family),all,females,4000,3838
+2022,author and related writer,all,females,4910,4665
+2022,author and related writer,all,males,5340,4865
+2022,content writer,all,females,5010,4915
+2022,"producer (stage, film, television, game, commercial, video and radio)",all,females,6320,5175
+2022,"producer (stage, film, television, game, commercial, video and radio)",all,males,8000,8000
+2022,assistant electrical engineer,all,males,3778,3555
+2022,assistant electronics engineer,all,males,3021,2721
+2022,assistant mechanical engineer,all,males,3452,3242
+2022,assistant manufacturing engineer,all,females,4115,3000
+2022,assistant manufacturing engineer,all,males,4644,3688
+2022,chemistry technician,all,females,3624,3249
+2022,chemistry technician,all,males,4619,4044
+2022,civil engineering technician,all,females,3888,3798
+2022,civil engineering technician,all,males,4310,4126
+2022,civil engineering technician,all,males,4529,4330
+2022,electrical engineering technician,all,males,3600,3204
+2022,lift technician,all,males,3883,3000
+2022,electronics engineering technician,all,females,3474,2886
+2022,electronics engineering technician,all,males,4169,3400
+2022,mechanical engineering technicians (excluding transport and vehicle engineering technicians),all,females,4474,3845
+2022,mechanical engineering technicians (excluding transport and vehicle engineering technicians),all,males,3642,2835
+2022,chemical engineering technician,all,females,5868,4350
+2022,chemical engineering technician,all,males,6429,4033
+2022,chemical engineering technician,all,females,6067,5543
+2022,chemical engineering technician,all,males,4461,3948
+2022,manufacturing engineering technician,all,females,3563,3000
+2022,manufacturing engineering technician,all,males,4430,3387
+2022,draughtsman,all,females,4064,3800
+2022,draughtsman,all,males,4100,4000
+2022,transport and vehicle engineering technician,all,females,3900,3147
+2022,transport and vehicle engineering technician,all,males,3831,2626
+2022,incinerator and water treatment plant and related machine operator,all,males,3478,2270
+2022,remote crane operator,all,males,4625,2800
+2022,life science technician (except medical),all,females,4656,4572
+2022,life science technician (except medical),all,males,4824,4630
+2022,clinical research coordinator,all,females,4946,4803
+2022,clinical research coordinator,all,males,4712,4712
+2022,road transport supervisor,all,females,3000,2483
+2022,road transport supervisor,all,males,3428,2809
+2022,port/shipping operations supervisor (including post-fixture and planner),all,females,4218,3034
+2022,port/shipping operations supervisor (including post-fixture and planner),all,males,3664,2833
+2022,air cargo officer,all,females,4030,3582
+2022,air cargo officer,all,males,3736,3353
+2022,premises and facilities maintenance officer,all,females,4240,3329
+2022,premises and facilities maintenance officer,all,males,3819,3030
+2022,building and fire inspector,all,females,2880,2797
+2022,building and fire inspector,all,males,4020,3848
+2022,"safety inspector (vehicles, processes and products)",all,females,2648,2599
+2022,"safety inspector (vehicles, processes and products)",all,males,3832,3600
+2022,medical and pathology laboratory technician,all,females,4751,4510
+2022,medical and pathology laboratory technician,all,males,4607,4562
+2022,pharmacy technician,all,females,2988,2125
+2022,enrolled/assistant nurse (excluding registered nurse),all,females,3717,3507
+2022,enrolled/assistant nurse (excluding registered nurse),all,males,3317,2890
+2022,credit and loans officer,all,females,4500,4450
+2022,credit and loans officer,all,males,4030,4030
+2022,assistant accountant,all,females,3976,3844
+2022,assistant accountant,all,males,4370,4252
+2022,audit associate professional,all,females,4400,4400
+2022,tax associate professional,all,females,4030,4030
+2022,tax associate professional,all,males,4030,3904
+2022,valuer and loss assessor,all,females,4375,4133
+2022,valuer and loss assessor,all,males,4284,4142
+2022,insurance representative and related associate professional,all,females,4841,4005
+2022,insurance representative and related associate professional,all,males,4821,4404
+2022,insurance sales agent/broker (including independent financial planner),all,females,5298,3785
+2022,insurance sales agent/broker (including independent financial planner),all,males,4993,4616
+2022,commercial and marketing sales executive,all,females,4187,3944
+2022,commercial and marketing sales executive,all,males,4503,4180
+2022,business development executive,all,females,4475,4000
+2022,business development executive,all,males,4943,4000
+2022,after sales adviser/client account service executive,all,females,5931,5884
+2022,after sales adviser/client account service executive,all,males,6343,6337
+2022,marketing and sales executive (food & beverage services),all,females,2775,2300
+2022,marketing and sales executive (food & beverage services),all,males,1800,1500
+2022,online sales channel executive,all,females,3145,3027
+2022,online sales channel executive,all,males,3837,3400
+2022,merchandising/category executive,all,females,3329,3283
+2022,merchandising/category executive,all,males,3978,3655
+2022,buyer and purchasing agent,all,females,4000,3744
+2022,buyer and purchasing agent,all,males,4474,4170
+2022,clearing and forwarding agent,all,females,4367,3677
+2022,clearing and forwarding agent,all,males,5374,3533
+2022,shipping agent/boarding officer,all,females,3289,2869
+2022,shipping agent/boarding officer,all,males,3695,3329
+2022,exhibition/conference/event planner (including wedding planner/coordinator),all,females,3900,3715
+2022,employment agent/labour contractor,all,males,3709,3709
+2022,real estate agent,all,females,4212,3686
+2022,logistics and maintenance planner,all,females,3897,3800
+2022,logistics and maintenance planner,all,males,3900,3645
+2022,management executive,all,females,3800,3560
+2022,management executive,all,males,4086,3788
+2022,operations officer (except transport operations),all,females,3850,3471
+2022,operations officer (except transport operations),all,males,3810,3200
+2022,legal associate professional (e.g. paralegal),all,females,6196,5508
+2022,legal associate professional (e.g. paralegal),all,males,8750,6400
+2022,social work associate,all,females,3200,3000
+2022,social work associate,all,males,2900,2600
+2022,sports coach,all,males,2909,2643
+2022,physical fitness instructor (including yoga instructor and aerobics instructor),all,males,3165,2200
+2022,interior designer,all,females,4000,3000
+2022,visual merchandiser,all,females,4950,4000
+2022,chef,all,females,3498,3206
+2022,chef,all,males,3962,3600
+2022,kitchen operations head/supervisor,all,females,3283,3231
+2022,kitchen operations head/supervisor,all,males,4741,4599
+2022,pastry chef,all,males,3202,3000
+2022,computer systems operator,all,males,4784,3190
+2022,it infrastructure technician,all,females,4995,4973
+2022,it infrastructure technician,all,males,5563,5420
+2022,it support technician (including it user helpdesk technician),all,females,4241,4000
+2022,it support technician (including it user helpdesk technician),all,males,4004,3750
+2022,broadcasting technician and audio-visual operator,all,females,2659,2449
+2022,broadcasting technician and audio-visual operator,all,males,4400,4155
+2022,media and broadcasting operations technician,all,males,3877,3595
+2022,pre-primary education teacher,all,females,3175,2525
+2022,language instructor (extracurriculum),all,females,3580,3000
+2022,private tutor (academic),all,females,5581,4508
+2022,private tutor (academic),all,males,6075,4765
+2022,office supervisor,all,females,3309,3050
+2022,office supervisor,all,males,3341,2904
+2022,general office clerk,all,females,2875,2700
+2022,general office clerk,all,males,3200,2916
+2022,secretary,all,females,4693,4274
+2022,secretary,all,males,3450,3262
+2022,data entry clerk,all,females,2060,2050
+2022,data entry clerk,all,males,2577,2400
+2022,bank teller,all,females,3512,3221
+2022,travel consultant/reservation executive,all,females,3643,2758
+2022,"receptionist, customer service and information clerk",all,females,2925,2621
+2022,"receptionist, customer service and information clerk",all,males,3112,2602
+2022,accounting and bookkeeping clerk,all,females,3225,3000
+2022,accounting and bookkeeping clerk,all,males,3285,3200
+2022,finance and insurance clerk,all,females,4330,4200
+2022,finance and insurance clerk,all,males,5450,5250
+2022,stock clerk,all,females,2245,1922
+2022,stock clerk,all,males,2500,2300
+2022,production clerk,all,females,2274,2000
+2022,production clerk,all,males,2629,2263
+2022,transport clerk,all,females,3312,2880
+2022,transport clerk,all,males,3451,2750
+2022,mail carrier and sorting worker,all,females,1690,1690
+2022,mail carrier and sorting worker,all,males,2350,2350
+2022,legal clerk,all,females,4650,4650
+2022,transport service inspector and related worker,all,males,3779,3779
+2022,cook (e.g. commis cook 2/3),all,females,2000,1900
+2022,cook (e.g. commis cook 2/3),all,males,2500,1977
+2022,"senior cook (e.g. station chef, commis cook 1, station cook)",all,females,2586,2452
+2022,"senior cook (e.g. station chef, commis cook 1, station cook)",all,males,2800,2420
+2022,captain waiter/waiter supervisor,all,females,2827,2551
+2022,captain waiter/waiter supervisor,all,males,2915,2700
+2022,waiter,all,females,1900,1650
+2022,waiter,all,males,1700,1600
+2022,barista,all,females,1900,1555
+2022,barista,all,males,1605,1400
+2022,hair stylist/hairdresser,all,females,2000,1900
+2022,beautician,all,females,2325,2000
+2022,manicurist,all,females,2603,2603
+2022,masseur (non-medical) (including foot reflexologist),all,females,2129,1953
+2022,masseur (non-medical) (including foot reflexologist),all,males,1645,1517
+2022,driving instructor/tester,all,males,3294,2497
+2022,sales supervisor,all,females,2800,2331
+2022,sales supervisor,all,males,3100,2660
+2022,shop sales assistant,all,females,2049,2000
+2022,shop sales assistant,all,males,2066,2000
+2022,cashier (general),all,females,2162,2016
+2022,cashier (general),all,males,1900,1683
+2022,sales demonstrator and door-to-door salesperson,all,females,1930,1620
+2022,sales demonstrator and door-to-door salesperson,all,males,3515,2625
+2022,sales demonstrator,all,females,1725,1500
+2022,sales demonstrator,all,males,3502,2460
+2022,telemarketer,all,females,3148,2803
+2022,petrol station attendant,all,males,1850,1850
+2022,food service counter attendant,all,females,2200,2160
+2022,child care and related worker,all,females,2700,2700
+2022,child care and related worker,all,males,2642,2025
+2022,teacher aide,all,females,2661,2619
+2022,healthcare assistant (e.g. therapy aide/assistant),all,females,2407,1600
+2022,healthcare assistant (e.g. therapy aide/assistant),all,males,2641,1600
+2022,nursing aide/assistant,all,females,2424,2200
+2022,dental aide/assistant,all,females,2650,2120
+2022,senior security supervisor,all,males,3410,2809
+2022,security supervisor,all,females,2768,2400
+2022,security supervisor,all,males,2768,2400
+2022,senior private security officer,all,females,2577,1876
+2022,senior private security officer,all,males,2707,1830
+2022,private security officer,all,females,2617,2022
+2022,private security officer,all,males,2556,1900
+2022,gardeners and horticultural worker,all,males,1650,1650
+2022,supervisor/general foreman (building and related trades),all,females,2616,2024
+2022,supervisor/general foreman (building and related trades),all,males,3500,2969
+2022,carpenter,all,males,2870,2494
+2022,floor/wall tiler,all,males,1550,1418
+2022,"plumber, pipe fitter and related worker",all,males,2630,2630
+2022,building maintenance worker,all,females,2334,2334
+2022,building maintenance worker,all,males,2000,1850
+2022,"supervisor/general foreman (metal, machinery and related trades)",all,females,3507,3238
+2022,"supervisor/general foreman (metal, machinery and related trades)",all,males,4310,3543
+2022,welder and flame cutter,all,males,2822,2214
+2022,"metal polisher, wheel grinder and tool sharpener",all,females,2401,2401
+2022,automotive mechanic,all,males,3224,3143
+2022,machinery mechanic,all,males,3015,2295
+2022,industrial/office machinery mechanic,all,males,3607,3586
+2022,"supervisor/general foreman (precision, handicraft, printing and related trades)",all,females,3155,2579
+2022,"supervisor/general foreman (precision, handicraft, printing and related trades)",all,males,5247,4864
+2022,precision instrument maker and repairer,all,females,2796,2796
+2022,medical device assembler/repairer,all,females,3363,3363
+2022,"supervisor/general foreman (electrical and electronic trades, excluding lift)",all,males,4005,3600
+2022,electrician,all,males,2652,2550
+2022,"bakers, pastry and confectionery maker",all,females,2005,1400
+2022,"bakers, pastry and confectionery maker",all,males,2000,1977
+2022,fumigator and other pest and weed controller,all,males,2000,1913
+2022,machine-tool setter-operator,all,females,1776,1649
+2022,machine-tool setter-operator,all,males,3598,2689
+2022,plastic products machine operator,all,females,1548,1193
+2022,food and related products machine operator,all,females,2200,1800
+2022,food and related products machine operator,all,males,2345,1800
+2022,"printing, binding and related machine operator",all,females,1400,1400
+2022,"printing, binding and related machine operator",all,males,2740,2060
+2022,supervisor/general foreman of assemblers and quality checkers,all,females,3257,2611
+2022,supervisor/general foreman of assemblers and quality checkers,all,males,3786,3483
+2022,electrical and electronic equipment assembler,all,females,2179,1312
+2022,electrical and electronic equipment assembler,all,males,2539,1887
+2022,quality checker and tester,all,females,2683,1810
+2022,quality checker and tester,all,males,3501,2200
+2022,motorcycle delivery man,all,males,2577,2052
+2022,chauffeur,all,males,2857,2583
+2022,van driver,all,females,2375,2000
+2022,van driver,all,males,2300,2052
+2022,ambulance driver,all,males,2702,1700
+2022,bus driver,all,females,4003,2300
+2022,bus driver,all,males,4381,2491
+2022,lorry driver,all,males,2550,2200
+2022,trailer-truck driver (including prime mover driver),all,males,2463,1689
+2022,waste truck driver (including hooklift trucks with roll-on containers),all,males,3529,2249
+2022,excavating/trench digging machine operator,all,males,3530,2737
+2022,crane/hoist operator (excluding port),all,males,4269,3000
+2022,crane operator (on-site),all,males,3046,1939
+2022,fork lift truck operator,all,females,2244,1828
+2022,fork lift truck operator,all,males,2546,2000
+2022,ships' deck crew and related worker,all,males,2319,2193
+2022,cleaning supervisor,all,females,2196,1968
+2022,cleaning supervisor,all,males,2400,1968
+2022,cleaner and helper in hotels and related establishments,all,females,1604,1403
+2022,cleaner and helper in hotels and related establishments,all,males,1646,1463
+2022,"office, commercial and industrial establishments indoor cleaner",all,females,1506,1400
+2022,"office, commercial and industrial establishments indoor cleaner",all,males,1550,1442
+2022,"office, commercial and industrial establishments outdoor cleaner",all,females,1584,1236
+2022,"office, commercial and industrial establishments outdoor cleaner",all,males,1640,1442
+2022,"office, commercial and industrial establishments multi-skilled cleaner cum machine operator",all,males,1800,1494
+2022,food and beverage establishments general cleaner,all,females,1450,1400
+2022,food and beverage establishments general cleaner,all,males,1450,1400
+2022,table-top cleaner,all,females,1400,1400
+2022,table-top cleaner,all,males,1400,1400
+2022,dishwasher,all,females,1740,1600
+2022,dishwasher,all,males,1600,1600
+2022,residential and open areas general cleaner,all,females,1589,1510
+2022,residential and open areas general cleaner,all,males,2000,1650
+2022,"park, garden and landscape maintenance worker",all,males,1700,1650
+2022,civil engineering/building construction labourer,all,males,1625,1575
+2022,hand packer,all,females,1530,1400
+2022,hand packer,all,males,1797,1420
+2022,warehouse worker,all,females,2015,1721
+2022,warehouse worker,all,males,2344,1999
+2022,vehicle attendant,all,males,2000,1860
+2022,kitchen assistant,all,females,1838,1500
+2022,kitchen assistant,all,males,2200,1600
+2022,food/drink stall assistant,all,females,1500,1400
+2022,food/drink stall assistant,all,males,1448,1400
+2022,"tea server/steward (excluding bartender, barista and food/drink stall assistant)",all,females,1550,1550
+2022,bellboy/hotel porter,all,males,1712,1598
+2022,attendant,all,females,1880,1700
+2022,attendant,all,males,2177,2064
+2022,hospital/clinic attendant,all,females,1854,1628
+2022,"sports and recreational attendant (e.g. golf marshal, golf caddie, fun fair attendant, bowling alley attendant, swimming pool attendant)",all,males,1976,1900
+2022,bus attendant,all,females,700,700
+2022,odd job person,all,females,1400,1400
+2022,odd job person,all,males,1400,1400
